@@ -6,5 +6,20 @@
 
 body {
 
-    background-color: bisque;
+    background-color: burlywood;
+}
+
+body > div {
+    background-color: white;
+    max-width: 736px;
+    margin-inline: auto;
+
+}
+
+div img {
+    width: 100%;
+}
+
+h1, h2 {
+    font-family: 'Lora', serif;
 }
